@@ -1,0 +1,56 @@
+.teacherButton{
+    bottom: 100px;
+    left:750px;
+    width: 150px;
+    background-color:  rgb(24, 5, 201);
+    color: white;
+    padding: 7px 10px;
+    font-weight: 600;
+    border-radius: 30px;
+    font-weight: bolder;
+    font-size: 10;
+    height: 45px;
+    cursor: pointer;
+}
+/*
+
+.teachersButton{
+    position: relative;
+    top: 1px; 
+    width: 150px;  
+    background-color:  rgb(24, 5, 201);
+    color: white;
+    padding: 7px 10px;
+    font-weight: bolder;
+    font-size: 10;
+    border-radius: 30px;
+    height: 20px;
+    margin-top: 35px;
+    padding: 10px 20px 30px 20px;
+    position: sticky;
+    cursor: pointer;
+}
+*/
+.bottunposit{
+    padding-bottom: 10px;
+}
+
+.Addbutton{
+      position: fixed;
+      top: 600px;
+     left:600px;
+     bottom: 0%;
+     position: absolute;
+}
+
+.theacherheder{
+    color: rgb(4, 4, 104);
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.theacherheders{
+    color: rgb(4, 4, 104);
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 200px;
+}
